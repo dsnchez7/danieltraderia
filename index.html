@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Daniel TraderIA</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <main>
+    <h1>Análisis técnico con IA</h1>
+    <p>Escribe un símbolo de criptomoneda (por ejemplo: <code>ETHUSDT</code>) y selecciona el timeframe.</p>
+    <form id="analysis-form">
+      <input type="text" id="symbol" placeholder="Símbolo" required />
+      <select id="timeframe">
+        <option value="1h">1 Hora</option>
+        <option value="4h">4 Horas</option>
+        <option value="1d">1 Día</option>
+      </select>
+      <button type="submit">Analizar</button>
+    </form>
+    <section id="result">
+      <!-- Aquí se mostrará el análisis -->
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
