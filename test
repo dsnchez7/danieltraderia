@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Análisis Técnico con Estrategia de 8 Claves</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: #eee;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      color: #0ff;
+      text-align: center;
+    }
+    .analisis {
+      background-color: #222;
+      border-radius: 10px;
+      padding: 20px;
+      margin-top: 20px;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+      box-shadow: 0 0 20px #0ff2;
+    }
+    .grafico {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .grafico img {
+      width: 100%;
+      max-width: 800px;
+      border-radius: 10px;
+    }
+    .resumen {
+      margin-top: 20px;
+      line-height: 1.6em;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Resumen Técnico Aplicando Estrategia 8 Claves</h1>
+
+  <div class="analisis">
+    <h2>ETHUSDT - 1H</h2>
+    <div class="resumen">
+      <p><strong>Precio Actual:</strong> $3,177</p>
+      <p><strong>Análisis:</strong> ETH ha tocado una zona clave tras una aceleración pronunciada con fuerte entrada de volumen. Las EMAs están alineadas al alza y el ADX indica fortaleza alcista (>25). Sin embargo, el precio se aproxima a un bloque de orden institucional anterior (resistencia).</p>
+      <p><strong>EMAs:</strong> EMA 10 y 55 cruzadas con dirección clara. EMA 200 como soporte dinámico en marcos superiores.</p>
+      <p><strong>Zonas:</strong> Soporte en $3,040. Resistencia en $3,215 y $3,300.</p>
+      <p><strong>Recomendación:</strong> No abrir long si el precio ya ha corrido demasiado lejos de la EMA 55 sin pullback. Buscar retrocesos hacia $3,120-$3,080 con confirmación.</p>
+      <p><strong>Outlook:</strong> Alcista en el corto plazo, pero entrando en sobreextensión técnica. Precaución en zonas de toma de ganancia. Esperar testeo y rechazo para entradas con mejor relación riesgo/beneficio.</p>
+    </div>
+  </div>
+
+  <div class="grafico">
+    <img src="https://cdn.midjourney.com/18d1634b-3767-4745-b2f2-baf3227bf57f/0_0.png" alt="Gráfico ETH Estrategia 8 Claves">
+  </div>
+
+</body>
+</html>
